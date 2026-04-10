@@ -1,0 +1,1 @@
+place(16.960, 0.984, 29.405, "Paintballer", 600) upgrade(16.960, 2.334, 29.405, 500) place(-13.494, 0.906, 42.864, "Paintballer", 475) place(7.660, 1.011, 52.071, "Paintballer", 375)
