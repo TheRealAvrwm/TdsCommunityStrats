@@ -1,4 +1,3 @@
--- DIFFICULTY: Casual
 place(14.841, 1.000, -11.347, "Soldier", 500)
 place(14.532, 1.000, -8.306, "Militant", 897)
 place(11.661, 1.000, -9.355, "Militant", 1022)
