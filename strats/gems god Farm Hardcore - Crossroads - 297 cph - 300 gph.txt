@@ -1,4 +1,3 @@
--- DIFFICULTY: Hardcore
 place(3.663, 1.000, -4.010, "Pyromancer", 1600)
 upgrade(3.663, 2.350, -4.010, 773)
 upgrade(3.663, 2.350, -4.010, 1531)
