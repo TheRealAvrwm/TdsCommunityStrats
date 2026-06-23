@@ -1,0 +1,11 @@
+-- ZEPHYR_META: {"authorId":"1122216196188680275","authorTag":"xcharabee","category":"community","official":false,"createdAt":"2026-06-23T21:56:57.185Z","updatedAt":"2026-06-23T21:56:57.185Z"}
+place(63.0, 302.6, -8.9, "Pyromancer", -25275, 0.94)
+upgrade(63.0, -8.9, 1, -25600, 15.56)
+upgrade(63.0, -8.9, 1, -26600, 48.96)
+upgrade(63.0, -8.9, 1, -28600, 118.99)
+place(126.4, 299.9, -18.2, "Hunter", -28600, 183.37)
+place(125.7, 299.7, -15.0, "Hunter", -28600, 188.74)
+upgrade(63.0, -8.9, 1, -32350, 275.60)
+place(123.1, 299.9, -18.0, "Hunter", -32350, 301.65)
+place(122.4, 299.7, -14.9, "Hunter", -32350, 326.82)
+place(140.8, 300.6, -0.5, "EvolvedJuggernaut", -32350, 554.01)
