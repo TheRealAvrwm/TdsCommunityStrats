@@ -1,4 +1,5 @@
--- ZEPHYR_META: {"authorId":"1511393537311113477","authorTag":"flores_gaming","category":"community","official":false,"createdAt":"2026-06-26T10:40:18.886Z","updatedAt":"2026-06-26T10:40:18.886Z"}
+-- ZEPHYR_META: {"authorId":"1511393537311113477","authorTag":"flores_gaming","category":"community","official":false,"createdAt":"2026-06-26T10:40:18.886Z","updatedAt":"2026-06-26T10:47:02.911Z"}
+-- NOTE: Best gold strat without ruining your winrate. V1 for new players. V2 for people who want scout and mini exp. V3 for Ops Exp. V4 for Jugg Exp. V5 for both. Recommended Modifers: Glass, Limitation, Committed, Hidden. - Flores
 place(1.6, 1.0, 19.6, "Soldier", -100, 21.41)
 upgrade(1.6, 19.6, 1, -200, 23.60)
 place(-2.8, 1.0, 20.2, "Soldier", -200, 31.21)
