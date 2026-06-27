@@ -1,0 +1,6 @@
+-- ZEPHYR_META: {"authorId":"1510857253828427830","authorTag":"kalapastangan0170","category":"community","official":false,"createdAt":"2026-06-27T14:03:00.238Z","updatedAt":"2026-06-27T14:03:00.238Z"}
+place(-6.9, 1.0, -32.0, "Scout", 0, 3.33)
+place(-2.9, 0.5, -20.0, "Scout", 0, 7.46)
+place(0.1, 0.6, -19.2, "Scout", 0, 16.84)
+place(-3.4, 1.0, -32.3, "Scout", 0, 24.54)
+place(2.9, 0.6, -18.0, "Scout", 0, 62.20)
