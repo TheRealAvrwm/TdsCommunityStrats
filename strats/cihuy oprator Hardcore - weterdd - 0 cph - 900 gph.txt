@@ -1,0 +1,13 @@
+-- ZEPHYR_META: {"authorId":"792344867602300928","authorTag":"demarrrrrrr","category":"community","official":false,"createdAt":"2026-06-30T15:16:52.321Z","updatedAt":"2026-06-30T15:16:52.321Z"}
+place(-2.4, 1.0, -33.5, "EvolvedOperator", 0, 0.96)
+place(-6.5, 1.0, -33.0, "EvolvedOperator", 0, 2.74)
+upgrade(-6.5, -33.0, 1, -325, 3.97)
+upgrade(-2.4, -33.5, 1, -650, 9.12)
+upgrade(-2.4, -33.5, 1, -1150, 24.59)
+upgrade(-6.5, -33.0, 1, -1650, 32.42)
+place(-4.7, 0.9, -30.3, "EvolvedOperator", -1650, 36.78)
+upgrade(-4.7, -30.3, 1, -1975, 44.15)
+upgrade(-4.7, -30.3, 1, -2475, 49.42)
+upgrade(-2.4, -33.5, 1, -3725, 67.54)
+upgrade(-6.5, -33.0, 1, -4975, 83.74)
+upgrade(-4.7, -30.3, 1, -6225, 105.08)
