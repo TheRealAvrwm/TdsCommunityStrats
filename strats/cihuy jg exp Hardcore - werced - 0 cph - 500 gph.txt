@@ -1,0 +1,8 @@
+-- ZEPHYR_META: {"authorId":"792344867602300928","authorTag":"demarrrrrrr","category":"community","official":false,"createdAt":"2026-06-30T05:26:55.279Z","updatedAt":"2026-06-30T05:26:55.279Z"}
+-- NOTE: auto skip on
+place(-1.7, 1.0, -34.6, "Pyromancer", 0, 0.71)
+upgrade(-1.7, -34.6, 1, -325, 10.03)
+upgrade(-1.7, -34.6, 1, -1325, 33.47)
+upgrade(-1.7, -34.6, 1, -3325, 66.76)
+sell(-1.7, -34.6, 142.53)
+place(-6.1, 1.0, -42.6, "EvolvedJuggernaut", -3325, 146.95)
