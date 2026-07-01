@@ -1,7 +1,0 @@
--- ZEPHYR_META: {"authorId":"1457243400079278161","authorTag":"markcaroni2","category":"community","official":false,"createdAt":"2026-06-24T12:59:39.679Z","updatedAt":"2026-06-24T12:59:39.679Z"}
--- NOTE: this is a test for me
-place(6.5, 1.4, 28.0, "Minigunner", 0, 26.11)
-skip(5, 49.25)
-upgrade(6.5, 28.0, 1, -1000, 53.89)
-place(6.5, 1.3, 22.5, "Minigunner", -1000, 91.39)
-upgrade(6.5, 22.5, 1, -2000, 104.75)
