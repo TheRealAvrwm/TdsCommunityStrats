@@ -1,0 +1,11 @@
+-- ZEPHYR_META: {"authorId":"1353946595133096029","authorTag":"ryezz12_","category":"community","official":false,"createdAt":"2026-07-18T09:56:00.124Z","updatedAt":"2026-07-18T09:56:00.124Z"}
+-- NOTE: Use Autoskip
+upgrade(-5.5, -32.7, 1, -325, 5.78)
+target(-5.5, -32.7, "Last", 7.96)
+target(-5.5, -32.7, "Strongest", 8.52)
+target(-5.5, -32.7, "Last", 9.35)
+upgrade(-5.5, -32.7, 1, -1325, 25.61)
+upgrade(-5.5, -32.7, 1, -3325, 62.41)
+place(-6.9, -0.1, -12.2, "EvolvedKingpin", -3325, 108.22)
+upgrade(-6.9, -12.2, 1, -4725, 121.07)
+upgrade(-6.9, -12.2, 1, -8725, 165.80)
