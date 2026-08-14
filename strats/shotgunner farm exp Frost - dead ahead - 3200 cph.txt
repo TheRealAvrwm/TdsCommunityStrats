@@ -1,6 +1,6 @@
--- ZEPHYR_META: {"authorId":"813398570148691978","authorTag":"fadhil4662","category":"community","official":false,"createdAt":"2026-08-14T16:40:16.685Z","updatedAt":"2026-08-14T16:40:16.685Z"}
+-- ZEPHYR_META: {"authorId":"813398570148691978","authorTag":"fadhil4662","category":"community","official":false,"createdAt":"2026-08-14T16:40:16.685Z","updatedAt":"2026-08-14T18:09:24.397Z"}
 -- NOTE: I make with max tree skills
-place(-3.9, 1.0, 35.2, "Shotgunner", 0, 37.60)
+place(-4.3, 1.0, 36.2, "Shotgunner", 0, 37.60)
 upgrade(-3.9, 35.2, 1, -750, 62.67)
 place(4.7, 1.0, 10.1, "Shotgunner", -750, 95.35)
 upgrade(4.7, 10.1, 1, -1500, 116.31)
