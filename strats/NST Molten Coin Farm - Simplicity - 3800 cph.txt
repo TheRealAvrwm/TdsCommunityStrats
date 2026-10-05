@@ -1,4 +1,5 @@
--- ZEPHYR_META: {"authorId":"1144917343407964202","authorTag":"axentis06","category":"community","official":false,"createdAt":"2026-10-05T13:34:54.742Z","updatedAt":"2026-10-05T13:41:35.603Z"}
+-- ZEPHYR_META: {"authorId":"1144917343407964202","authorTag":"axentis06","category":"community","official":false,"createdAt":"2026-10-05T13:34:54.742Z","updatedAt":"2026-10-05T13:54:20.300Z"}
+place(-11.7, 1.0, -13.0, "Freezer", -300, 1.00)
 upgrade(-11.7, -13.0, 1, -300, 7.48)
 upgrade(-11.7, -13.0, 1, -750, 22.27)
 place(-23.8, 1.0, -6.8, "Shotgunner", -750, 55.66)
@@ -32,11 +33,7 @@ option(-9.8, -9.4, "Track", "Green", 265.69)
 upgrade(-9.8, -9.4, 1, -23300, 272.48)
 place(-13.4, 1.0, -9.3, "Shotgunner", -23300, 281.51)
 upgrade(-13.4, -9.3, 1, -23975, 283.86)
-target(-23.8, -6.8, "Last", 292.89)
-target(-23.8, -6.8, "Strongest", 293.64)
-target(-23.8, -6.8, "Weakest", 294.12)
 target(-23.8, -6.8, "Strongest", 294.89)
-target(-23.9, -4.8, "Last", 298.08)
 target(-23.9, -4.8, "Strongest", 298.49)
 upgrade(-23.8, -6.8, 1, -31175, 300.46)
 ability(-9.8, -9.4, "Drop The Beat", 306.02)
