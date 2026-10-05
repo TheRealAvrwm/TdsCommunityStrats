@@ -1,4 +1,4 @@
--- ZEPHYR_META: {"authorId":"1144917343407964202","authorTag":"axentis06","category":"community","official":false,"createdAt":"2026-10-05T13:34:54.742Z","updatedAt":"2026-10-05T13:34:54.742Z"}
+-- ZEPHYR_META: {"authorId":"1144917343407964202","authorTag":"axentis06","category":"community","official":false,"createdAt":"2026-10-05T13:34:54.742Z","updatedAt":"2026-10-05T13:41:35.603Z"}
 upgrade(-11.7, -13.0, 1, -300, 7.48)
 upgrade(-11.7, -13.0, 1, -750, 22.27)
 place(-23.8, 1.0, -6.8, "Shotgunner", -750, 55.66)
