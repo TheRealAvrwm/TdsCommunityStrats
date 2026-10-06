@@ -1,0 +1,16 @@
+-- ZEPHYR_META: {"authorId":"1433056622833438791","authorTag":"i_m_afraid_of_women","category":"community","official":false,"createdAt":"2026-10-06T20:29:38.761Z","updatedAt":"2026-10-06T20:29:38.761Z"}
+-- NOTE: autoskip on
+place(-6.9, 1.0, -32.3, "Pyromancer", 0, 1.35)
+upgrade(-6.9, -32.3, 1, -325, 6.63)
+upgrade(-6.9, -32.3, 1, -1325, 26.28)
+upgrade(-6.9, -32.3, 1, -3325, 62.63)
+place(-1.1, 0.8, -24.8, "Crook Boss", -3325, 94.96)
+upgrade(-1.1, -24.8, 1, -4825, 116.35)
+upgrade(-1.1, -24.8, 1, -7575, 140.46)
+place(-2.8, 0.7, -22.3, "Crook Boss", -7575, 166.88)
+upgrade(-2.8, -22.3, 1, -9075, 180.12)
+upgrade(-2.8, -22.3, 1, -11825, 221.87)
+place(0.2, 0.7, -22.0, "Crook Boss", -11825, 240.39)
+upgrade(0.2, -22.0, 1, -13325, 261.79)
+upgrade(0.2, -22.0, 1, -16075, 292.44)
+place(-1.6, 0.5, -18.4, "EvolvedKingpin", -16075, 328.21)
